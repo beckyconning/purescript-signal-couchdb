@@ -1,0 +1,37 @@
+{
+  "name": "purescript-signal-couchdb",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-distributive": "^0.5.0",
+    "purescript-exceptions": "~0.3.0",
+    "purescript-foreign": "~0.6.0",
+    "purescript-lazy": "^0.4.0",
+    "purescript-lists": "^0.7.0",
+    "purescript-quickcheck": "f212093bf1094019276b46f5b9c87e831477955f",
+    "purescript-signal-loop": "~0.2.0",
+    "purescript-tailrec": "^0.3.0",
+    "purescript-test-unit": "~2.0.0",
+    "purescript-st": "~0.1.0",
+    "purescript-aff": "~0.11.3"
+  },
+  "homepage": "https://github.com/beckyconning/purescript-signal-couchdb",
+  "authors": [
+    "Becky Conning <becky.conning@icloud.com>"
+  ],
+  "license": "MIT",
+  "resolutions": {
+    "purescript-signal": "~4.1.0"
+  },
+  "devDependencies": {
+    "purescript-test-unit": "~2.0.0",
+    "purescript-debug": "~0.1.0"
+  }
+}
